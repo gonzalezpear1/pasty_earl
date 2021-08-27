@@ -6,4 +6,3 @@ int main()
 }
 
 
-align_val_tdasffjhdsajfhd
